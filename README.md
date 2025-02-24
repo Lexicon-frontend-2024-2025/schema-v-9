@@ -15,8 +15,8 @@ Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/cour
 [Error Handling i Next.js](https://nextjs.org/docs/app/getting-started/error-handling)
 #### Youtube
 Extra och frivilligt för de som vill höra mer förklaringar kring error boundries osv
-[tapaScript - Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
-[Josh tried coding - Master NextJS Error Handling in 10 Minutes](https://www.youtube.com/watch?v=CfkiO8wTSOY)
+* [tapaScript - Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
+* [Josh tried coding - Master NextJS Error Handling in 10 Minutes](https://www.youtube.com/watch?v=CfkiO8wTSOY)
 
 ##### Extra för er som vill ha ett större projekt att arbeta med. Varning att dessa går snabbt fram och inte är för er som är nybörjare.
 * [Web Dev Simplified - Build A Course Platform LMS With Next.js 15, React 19, Stripe, Drizzle, Shadcn, Postgres](https://www.youtube.com/watch?v=OAyQ3Wyyzfg)
