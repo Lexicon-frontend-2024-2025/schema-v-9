@@ -30,7 +30,7 @@ Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/cour
 ## Lektioner
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
-* **Måndag** - Gemensamt: Felhantering
+* **[Måndag](https://github.com/Robert-Lexicon/lektion-shop)** - Gemensamt: Felhantering
 * **Tisdag** - Gemensamt: useContext
 * **Onsdag** - Gemensamt: 
 * **Torsdag** - Gemensamt: 
