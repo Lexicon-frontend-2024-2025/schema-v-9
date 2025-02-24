@@ -26,7 +26,6 @@ Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/cour
 ## Övningar
 [Doggy day care](https://github.com/Lexicon-frontend-2024-2025/doggy-daycare/blob/main/README.md)
 
-## Slides
 
 ## Lektioner
 ##### Med tillhörande repon
