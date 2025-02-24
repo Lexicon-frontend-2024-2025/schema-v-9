@@ -12,7 +12,7 @@
 #### Utvalda för denna veckan:
 Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) inkl Rendering and Data Fetching, Dynamic Routing och Deploying.
 #### Läsning
-
+[Error Handling i Next.js](https://nextjs.org/docs/app/getting-started/error-handling)
 #### Youtube
 
 ##### Extra för er som vill ha ett större projekt att arbeta med. Varning att dessa går snabbt fram och inte är för er som är nybörjare.
