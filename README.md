@@ -35,4 +35,4 @@ Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **Tisdag** - Gemensamt: useContext
 * **Onsdag** - Gemensamt: 
 * **Torsdag** - Gemensamt: 
-* **Fredag** - Gemensamt: Code review
+* **Fredag** - Gemensamt: Code review på Doggy Day Care alt eget projekt
