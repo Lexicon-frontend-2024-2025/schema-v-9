@@ -34,11 +34,14 @@ Extra och frivilligt för de som vill höra mer förklaringar kring error boundr
 * [Props drilling, artikel](https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/)
 * [Props drilling, video](https://www.youtube.com/watch?v=QLO64jkGkRg)
 
+## Slides:
+* [useContext, useReducer](https://docs.google.com/presentation/d/1o7cqTfJDS-oAqGTMB4m0gJSoPZIw1zoDFTZ4DCN04Bg/edit?usp=sharing)
+
 ## Lektioner
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **[Måndag](https://github.com/Robert-Lexicon/lektion-shop)** - Gemensamt: Felhantering
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-25-feb)** - Gemensamt: useContext och useReducer
-* **Onsdag** - Gemensamt: 
+* **Onsdag** - Gemensamt: Repetition
 * **Torsdag** - Gemensamt: 
 * **Fredag** - Gemensamt: Code review på Doggy Day Care alt eget projekt
