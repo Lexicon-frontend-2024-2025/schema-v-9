@@ -38,7 +38,7 @@ Extra och frivilligt för de som vill höra mer förklaringar kring error boundr
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **[Måndag](https://github.com/Robert-Lexicon/lektion-shop)** - Gemensamt: Felhantering
-* **[Tisdag]()** - Gemensamt: useContext och useReducer
+* **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-25-feb)** - Gemensamt: useContext och useReducer
 * **Onsdag** - Gemensamt: 
 * **Torsdag** - Gemensamt: 
 * **Fredag** - Gemensamt: Code review på Doggy Day Care alt eget projekt
