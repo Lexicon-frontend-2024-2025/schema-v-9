@@ -13,6 +13,7 @@
 Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) inkl Rendering and Data Fetching, Dynamic Routing och Deploying.
 #### Läsning
 [Error Handling i Next.js](https://nextjs.org/docs/app/getting-started/error-handling)
+[useReducer, useContext](https://www.webdevtutor.net/blog/typescript-usecontext-usereducer)
 #### Youtube
 Extra och frivilligt för de som vill höra mer förklaringar kring error boundries osv
 * [tapaScript - Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
@@ -29,12 +30,15 @@ Extra och frivilligt för de som vill höra mer förklaringar kring error boundr
 ## Övningar
 [Doggy day care](https://github.com/Lexicon-frontend-2024-2025/doggy-daycare/blob/main/README.md)
 
+### Övrigt:
+* [Props drilling, artikel](https://www.freecodecamp.org/news/prop-drilling-in-react-explained-with-examples/)
+* [Props drilling, video](https://www.youtube.com/watch?v=QLO64jkGkRg)
 
 ## Lektioner
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **[Måndag](https://github.com/Robert-Lexicon/lektion-shop)** - Gemensamt: Felhantering
-* **Tisdag** - Gemensamt: useContext
+* **[Tisdag]()** - Gemensamt: useContext och useReducer
 * **Onsdag** - Gemensamt: 
 * **Torsdag** - Gemensamt: 
 * **Fredag** - Gemensamt: Code review på Doggy Day Care alt eget projekt
