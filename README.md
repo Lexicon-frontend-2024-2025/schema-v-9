@@ -12,8 +12,8 @@
 #### Utvalda för denna veckan:
 Resterande av [Next.js 14: Foundations](https://app.pluralsight.com/library/courses/nextjs-13-fundamentals/table-of-contents) inkl Rendering and Data Fetching, Dynamic Routing och Deploying.
 #### Läsning
-[Error Handling i Next.js](https://nextjs.org/docs/app/getting-started/error-handling)
-[useReducer, useContext](https://www.webdevtutor.net/blog/typescript-usecontext-usereducer)
+* [Error Handling i Next.js](https://nextjs.org/docs/app/getting-started/error-handling)
+* [useReducer, useContext](https://www.webdevtutor.net/blog/typescript-usecontext-usereducer)
 #### Youtube
 Extra och frivilligt för de som vill höra mer förklaringar kring error boundries osv
 * [tapaScript - Next.js Error Handling Patterns || Common Mistakes To Avoid](https://www.youtube.com/watch?v=WBACCNJAzog)
