@@ -43,5 +43,5 @@ Kan ändras då vi kanske hinner mer/mindre under dagarna.
 * **[Måndag](https://github.com/Robert-Lexicon/lektion-shop)** - Gemensamt: Felhantering
 * **[Tisdag](https://github.com/Lexicon-frontend-2024-2025/lektion-25-feb)** - Gemensamt: useContext och useReducer
 * **Onsdag** - Gemensamt: Repetition
-* **Torsdag** - Gemensamt: 
+* **[Torsdag](https://github.com/Robert-Lexicon/lektion-shop/tree/dev)** - Gemensamt: Metadata och children i komponenter
 * **Fredag** - Gemensamt: Code review på Doggy Day Care alt eget projekt
