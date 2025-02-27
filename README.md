@@ -37,6 +37,16 @@ Extra och frivilligt för de som vill höra mer förklaringar kring error boundr
 ## Slides:
 * [useContext, useReducer](https://docs.google.com/presentation/d/1o7cqTfJDS-oAqGTMB4m0gJSoPZIw1zoDFTZ4DCN04Bg/edit?usp=sharing)
 
+## Code Review
+Ta ca 5 min per person och visa ert projekt för varandra. Om ni vill får ni gärna ge varandra lite snäll återkoppling också. 
+Efter alla redovisat så ska ni diskutera följande frågor som ni sen ska redovisa i helklass lite kortfattat. Så se till att någon antecknar och att någon för gruppens talan vid återsamling. Ni får gärna ta med dessa frågor när ni presenterar projektet för varandra också. Hinner ni inte alla frågor är det ok, välj i så fall 2-3 st som ni tycker är intressanta att prata om i er grupp.
+* Hur hämtade ni er data och varför? (Server, client, fetch, useEffect, useContext...)
+* Hur och var har ni använt "use client" och varför?
+* Hur har ni hanterat fel och felmeddelanden? Vad händer om man skriver in fel id i url t ex?
+* Hur har ni strukturerat era filer i mapparna i next.js? Vad kan vara värt att tänka på där tänker ni?
+* Vad har varit svårt i detta projekt och hur har ni hanterat det?
+* Något annat ni reflekterar över eller vill nämna för resten av klassen?
+
 ## Lektioner
 ##### Med tillhörande repon
 Kan ändras då vi kanske hinner mer/mindre under dagarna.
